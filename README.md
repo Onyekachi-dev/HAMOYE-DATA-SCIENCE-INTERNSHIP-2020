@@ -1,3 +1,3 @@
 # HAMOYE-DATA-SCIENCE-INTERNSHIP-2020
-STAGE A Quiz Solutions and Exploratory Data Analysis
+STAGE A Quiz Solutions and Exploratory Data Analysis &
 EXPLORATORY DATA ANALYSIS OF DATA SET fuel_ferc1
